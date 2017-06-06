@@ -69,8 +69,8 @@ header.masthead .mh-slider {
   font-weight: bold;
 }
 #slider .container h1 {
-  color: #de5749;
-  margin-top: 70px;
+  color:#07a8e5;
+  margin-top: 70px;  
 }
 #slider .container h3 {
   margin: 0;
@@ -221,11 +221,11 @@ header.masthead .mh-slider {
   transition: all 0.25s ease-in-out;
 }
 #nav .navbar-nav li a:hover {
-  color: #de5749;
+  color: #07a8e5;
   background: none;
 }
 #nav .navbar-nav li.active a {
-  color: #de5749;
+  color: #07a8e5;
 }
 #nav .navbar-nav.social {
   margin-left: 15px;
@@ -243,7 +243,7 @@ header.masthead .mh-slider {
   color: gray;
 }
 #nav .navbar-nav.social li:hover {
-  background: #de5749;
+  background: #25a7b4;
 }
 #nav .navbar-nav.social li:hover a i {
   color: white;
@@ -253,7 +253,7 @@ section {
   padding: 75px 0;
 }
 section#features {
-  background: #de5749;
+  background: #25a7b4;
 }
 section#features .feature {
   text-align: center;
@@ -286,9 +286,9 @@ section#features .carousel-indicators {
 }
 section#features .carousel-indicators li {
   width: 15px;
-  height: 15px;
-  background: #a32a1e;
-  border-color: #a32a1e;
+  height: 15px; 
+  background: #07a8e5;
+  border-color: #07a8e5;
   -webkit-transition: all 0.25s ease-in-out;
   -o-transition: all 0.25s ease-in-out;
   -moz-transition: all 0.25s ease-in-out;
@@ -427,7 +427,7 @@ section#download .container .btn-group.small .btn:hover {
 }
 section#settings {
   color: white;
-  background: #de5749;
+  background: #07a8e5;
 }
 section#settings img {
   margin-left: 30px;
@@ -460,10 +460,10 @@ section#screenshots .section-heading h3 {
   color: #999999;
 }
 section#screenshots .section-heading h3 span {
-  color: #de5749;
+  color: #07a8e5;
 }
 section#screenshots .section-heading .divider {
-  background: #de5749;
+  background: #07a8e5;
 }
 section#screenshots .section-heading p {
   color: #999999;
@@ -488,8 +488,8 @@ section#screenshots .owl-next i, section#screenshots .owl-prev i {
   transition: all 0.25s ease-in-out;
 }
 section#screenshots .owl-next:hover i, section#screenshots .owl-prev:hover i {
-  color: #de5749;
-  border-color: #de5749;
+  color: #07a8e5;
+  border-color: #07a8e5;
 }
 section#screenshots .owl-next i {
   padding-right: inherit;
@@ -503,7 +503,7 @@ section#packages {
   background-attachment: fixed;
 }
 section#packages .section-heading h3 {
-  color: #555555;
+  color: #555555; 
 }
 section#packages .section-heading h3 span {
   color: #25a7b4;
@@ -599,7 +599,7 @@ section#packages .pack:hover .details {
   color: white;
 }
 section#packages .pack:hover .details ul li {
-  border-color: #29bbc9;
+  border-color: #29bbc9; 
   color: white;
 }
 section#packages .pack:hover .details .btn-sign-up {
@@ -660,7 +660,7 @@ section#testimonials .carousel .carousel-indicators li.active {
   height: 18px;
 }
 section#team {
-  background: #de5749;
+  background: #49adde;
 }
 section#team .car-next, section#team .car-prev {
   text-align: center;
@@ -682,8 +682,8 @@ section#team .car-next i, section#team .car-prev i {
   transition: all 0.25s ease-in-out;
 }
 section#team .car-next:hover i, section#team .car-prev:hover i {
-  color: #eea79f;
-  border-color: #eea79f;
+  color: #077be5;
+  border-color: #077be5;
 }
 section#team .car-next i {
   padding-right: inherit;
@@ -752,10 +752,10 @@ section#team .member:hover {
   color: #555555;
 }
 section#team .member:hover .media-heading {
-  color: #de5749;
+  color: #07a7e5;
 }
 section#team .member:hover .media-heading ul li a i {
-  color: #de5749;
+  color: #07a7e5;
 }
 section#team .member:hover span.divider {
   background: #555555;
@@ -974,7 +974,7 @@ footer .rights a {
 
 .btn.btn-default {
   background: white;
-  color: #de5749;
+  color: #02c9fb;
 }
 .btn.btn-default:hover {
   background: none;
@@ -987,7 +987,7 @@ footer .rights a {
 }
 .btn.btn-empty:hover {
   background: white;
-  color: #de5749;
+  color: #02c9fb;
 }
 
 a {
