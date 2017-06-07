@@ -243,7 +243,7 @@ header.masthead .mh-slider {
   color: gray;
 }
 #nav .navbar-nav.social li:hover {
-  background: #25a7b4;
+  background: #07a8e5;
 }
 #nav .navbar-nav.social li:hover a i {
   color: white;
@@ -253,7 +253,7 @@ section {
   padding: 75px 0;
 }
 section#features {
-  background: #25a7b4;
+  background: #07a8e5;
 }
 section#features .feature {
   text-align: center;
@@ -506,10 +506,10 @@ section#packages .section-heading h3 {
   color: #555555; 
 }
 section#packages .section-heading h3 span {
-  color: #25a7b4;
+  color: #07a8e5;
 }
 section#packages .section-heading .divider {
-  background: #25a7b4;
+  background: #07a8e5;
 }
 section#packages .section-heading p {
   color: #555555;
@@ -530,7 +530,7 @@ section#packages .pack {
   margin: 35px 0;
 }
 section#packages .pack .heading {
-  background: #25a7b4;
+  background: #07a8e5;
   color: white;
   -webkit-border-radius: 3px 3px 0 0;
   -moz-border-radius: 3px 3px 0 0;
@@ -577,7 +577,7 @@ section#packages .pack .details ul li:first-child {
 }
 section#packages .pack .details .btn-sign-up {
   background: white;
-  color: #25a7b4;
+  color: #07a8e5;
   width: 85%;
   margin: 0 auto;
   border-width: 1px;
@@ -592,18 +592,18 @@ section#packages .pack:hover {
 }
 section#packages .pack:hover .heading {
   background: white;
-  color: #25a7b4;
+  color: #07a8e5;
 }
 section#packages .pack:hover .details {
-  background: #25a7b4;
+  background: #07a8e5;
   color: white;
 }
 section#packages .pack:hover .details ul li {
-  border-color: #29bbc9; 
+  border-color: #07a8e5; 
   color: white;
 }
 section#packages .pack:hover .details .btn-sign-up {
-  background: #25a7b4;
+  background: #07a8e5;
   color: white;
   opacity: 1;
   -webkit-transform: translatey(45px);
@@ -613,7 +613,7 @@ section#packages .pack:hover .details .btn-sign-up {
   transform: translatey(45px);
 }
 section#testimonials {
-  background: #25a7b4;
+  background: #07a8e5;
   padding-top: 0;
   padding-bottom: 15px;
 }
@@ -629,7 +629,7 @@ section#testimonials .carousel .carousel-inner .item .carousel-caption {
 section#testimonials .carousel .carousel-inner .item img {
   width: 130px;
   margin: auto;
-  border: 5px solid #25a7b4;
+  border: 5px solid #07a8e5;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   -ms-border-radius: 3px;
@@ -660,7 +660,7 @@ section#testimonials .carousel .carousel-indicators li.active {
   height: 18px;
 }
 section#team {
-  background: #49adde;
+  background: #07a8e5;
 }
 section#team .car-next, section#team .car-prev {
   text-align: center;
@@ -682,8 +682,8 @@ section#team .car-next i, section#team .car-prev i {
   transition: all 0.25s ease-in-out;
 }
 section#team .car-next:hover i, section#team .car-prev:hover i {
-  color: #077be5;
-  border-color: #077be5;
+  color: #07a8e5;
+  border-color: #07a8e5;
 }
 section#team .car-next i {
   padding-right: inherit;
@@ -730,7 +730,7 @@ section#team .member .media .media-heading ul li a i {
   transition: all 0.25s ease-in-out;
 }
 section#team .member .media .media-heading ul li a i:hover {
-  color: #555555;
+  color: white;
 }
 section#team .member .media p {
   font-weight: 300;
@@ -749,13 +749,13 @@ section#team .member .media span.divider {
 }
 section#team .member:hover {
   background: white;
-  color: #555555;
+  color: white;
 }
 section#team .member:hover .media-heading {
-  color: #07a7e5;
+  color: white;
 }
 section#team .member:hover .media-heading ul li a i {
-  color: #07a7e5;
+  color: white;
 }
 section#team .member:hover span.divider {
   background: #555555;
@@ -819,7 +819,7 @@ section#subscribe .form-group .form-control-feedback {
   right: 20px;
   width: inherit;
   border: none;
-  background: #25a7b4;
+  background: #07a8e5;
   color: white;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -835,7 +835,7 @@ section#subscribe .form-group .form-control-feedback {
   transition: all 0.25s ease-in-out;
 }
 section#subscribe .form-group .form-control-feedback:hover {
-  background: #1e8892;
+  background: #07a8e5;
 }
 section#subscribe img {
   margin-top: -65px;
@@ -848,7 +848,7 @@ section#sponsors {
 }
 
 footer {
-  background-image: ;
+  background-image: #ffffff;
   position: relative;
   padding: 5px 0;
   color: white;
@@ -873,14 +873,14 @@ footer form .form-control {
 }
 footer form .btn {
   padding: 8px 18px;
-  background: #2e2e2e;
+  background: #07a8e5;
   color: white;
-  border-color: #2e2e2e;
+  border-color: #07a8e5;
 }
 footer form .btn:hover {
-  border-color: #3b3b3b;
-  background: #3b3b3b;
-  color: white;
+  border-color: #07a8e5;
+  background: #ffffff;
+  color: #07a8e5;
 }
 footer .social {
   text-align: center;
@@ -908,7 +908,7 @@ footer .social ul li a {
   display: inline-block;
 }
 footer .social ul li a i {
-  color: white;
+  color: #07a8e5;
   -webkit-transition: all 0.25s ease-in-out;
   -o-transition: all 0.25s ease-in-out;
   -moz-transition: all 0.25s ease-in-out;
@@ -918,7 +918,7 @@ footer .social ul li a:hover {
   background: white;
 }
 footer .social ul li a:hover i {
-  color: #25a7b4;
+  color: #07a8e5;
 }
 footer .rights {
   color: white;
@@ -930,7 +930,7 @@ footer .rights span {
   font-weight: bold;
 }
 footer .rights a {
-  color: white;
+  color: #07a8e5;
 }
 
 .form-control {
@@ -974,7 +974,7 @@ footer .rights a {
 
 .btn.btn-default {
   background: white;
-  color: #02c9fb;
+  color: #07a8e5;
 }
 .btn.btn-default:hover {
   background: none;
@@ -986,8 +986,8 @@ footer .rights a {
   color: white;
 }
 .btn.btn-empty:hover {
-  background: white;
-  color: #02c9fb;
+  background: #07a8e5;
+  color: #ffffff;
 }
 
 a {
@@ -1007,11 +1007,11 @@ a {
   color: white;
 }
 .section-heading h4, .section-heading p {
-  color: white;
+  color: #07a8e5;
   line-height: 22px;
 }
 .section-heading i {
-  color: #d9d9d9;
+  color: #07a8e5;
 }
 .section-heading span {
   font-weight: bold;
@@ -1034,7 +1034,7 @@ a {
 
 .pre-loader {
   position: fixed;
-  background: #ecf0f1;
+  background: #07a8e5;
   width: 100%;
   height: 100%;
   z-index: 9999999;
@@ -1055,7 +1055,7 @@ a {
 .spinner > div {
   width: 18px;
   height: 18px;
-  background-color: #bdc3c7;
+  background-color: #07a8e5;
   border-radius: 100%;
   display: inline-block;
   -webkit-animation: bouncedelay 1.4s infinite ease-in-out;
