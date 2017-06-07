@@ -454,10 +454,10 @@ section#screenshots {
   background: white;
 }
 section#screenshots .section-heading {
-  color: #999999;
+  color: #07a8e5;
 }
 section#screenshots .section-heading h3 {
-  color: #999999;
+  color: #07a8e5;
 }
 section#screenshots .section-heading h3 span {
   color: #07a8e5;
@@ -748,7 +748,7 @@ section#team .member .media span.divider {
   transition: all 0.25s ease-in-out;
 }
 section#team .member:hover {
-  background: white;
+  background: #07a8e5;
   color: white;
 }
 section#team .member:hover .media-heading {
@@ -758,7 +758,7 @@ section#team .member:hover .media-heading ul li a i {
   color: white;
 }
 section#team .member:hover span.divider {
-  background: #555555;
+  background: #ffffff;
 }
 section#subscribe {
   background-image: url(../img/grey.jpg);
@@ -818,8 +818,8 @@ section#subscribe .form-group .form-control-feedback {
   top: 13px;
   right: 20px;
   width: inherit;
-  border: none;
-  background: #07a8e5;
+  border: none; 
+  background: #25a7b4;
   color: white;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -835,7 +835,7 @@ section#subscribe .form-group .form-control-feedback {
   transition: all 0.25s ease-in-out;
 }
 section#subscribe .form-group .form-control-feedback:hover {
-  background: #07a8e5;
+  background: #25a7b4;
 }
 section#subscribe img {
   margin-top: -65px;
@@ -921,7 +921,7 @@ footer .social ul li a:hover i {
   color: #07a8e5;
 }
 footer .rights {
-  color: white;
+  color: #07a8e5;
   font-weight: 300;
   text-align: center;
   font-size: 15px;
@@ -941,7 +941,7 @@ footer .rights a {
   border-radius: 0px;
   -webkit-box-shadow: none;
   box-shadow: none;
-  border: none;
+  border: #07a8e5;
 }
 
 .btn:active, .btn.active {
@@ -1004,7 +1004,7 @@ a {
 }
 .section-heading h1, .section-heading h2, .section-heading h3 {
   text-transform: uppercase;
-  color: white;
+  color: #07a8e5;
 }
 .section-heading h4, .section-heading p {
   color: #07a8e5;
